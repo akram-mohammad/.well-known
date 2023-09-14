@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.iti_movies",
+    "package_name": "com.etisalat",
     "sha256_cert_fingerprints":
-    ["0C:F4:C2:79:00:2D:7F:37:BD:E9:D6:03:BB:99:C0:F9:84:E9:5E:2D:79:FA:E4:0E:58:99:77:4C:9B:A4:C2:E0"]
+    ["C0:EA:24:52:F2:CC:50:4F:D7:71:0D:78:9D:1D:1D:BE:88:91:12:E9:7A:9F:DD:8A:48:CF:2A:A4:45:30:48:16","F2:85:1E:BC:2E:FC:49:50:9E:56:47:25:E9:B1:5D:18:8B:1C:83:B1:37:8E:B9:6A:83:35:21:6A:71:A3:8F:03"]
   }
 }]
