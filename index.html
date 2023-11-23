@@ -4,6 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DLTEST</title>
+    <script>
+        let params = (new URL(document.location)).searchParams;
+        let opened = params.get("opened");
+        if(opened != null && opened == true) {
+            window.location.replace(`https://apps.apple.com/us/app/my-etisalat/id558287646`);
+        }
+    </script>
 </head>
 <body>
     <h1>HELLO AKRAM</h1>
@@ -16,3 +23,4 @@
     </script>
 </body>
 </html>
+https://apps.apple.com/us/app/my-etisalat/id558287646
