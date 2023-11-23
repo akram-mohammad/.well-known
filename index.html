@@ -6,8 +6,7 @@
     <title>DLTEST</title>
     <script>
         let params = (new URL(document.location)).searchParams;
-        let opened = params.get("opened");
-        if(opened != null && opened == true) {
+        if(params.has("opened") === true) {
             window.location.replace(`https://apps.apple.com/us/app/my-etisalat/id558287646`);
         }
     </script>
