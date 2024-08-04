@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.etisalat",
+    "package_name": "com.example.eand_cash_app",
     "sha256_cert_fingerprints":
-    ["C0:EA:24:52:F2:CC:50:4F:D7:71:0D:78:9D:1D:1D:BE:88:91:12:E9:7A:9F:DD:8A:48:CF:2A:A4:45:30:48:16","F2:85:1E:BC:2E:FC:49:50:9E:56:47:25:E9:B1:5D:18:8B:1C:83:B1:37:8E:B9:6A:83:35:21:6A:71:A3:8F:03"]
+    ["14:60:EE:6B:41:E4:91:59:71:40:00:BB:8C:CC:3D:C9:FD:8B:0F:C1:11:40:65:5F:B5:99:A9:23:07:AE:34:C2"]
   }
 }]
