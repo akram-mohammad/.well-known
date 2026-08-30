@@ -1,9 +1,12 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.eand_cash_app",
-    "sha256_cert_fingerprints":
-    ["14:60:EE:6B:41:E4:91:59:71:40:00:BB:8C:CC:3D:C9:FD:8B:0F:C1:11:40:65:5F:B5:99:A9:23:07:AE:34:C2"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.geidea.paymentsdk",
+      "sha256_cert_fingerprints": [
+        "B5:B5:91:40:6D:B9:9D:EE:D3:61:D9:07:DF:20:0A:EE:A8:58:FE:FE:71:1D:86:50:41:0F:78:A7:92:84:42:AE"
+      ]
+    }
   }
-}]
+]
